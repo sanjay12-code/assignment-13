@@ -1,0 +1,15 @@
+http:
+  port: "8081"
+  
+sfdc:
+  username: "sanjusuryavamshi7308@gmail.com"
+  password: "saju4455"
+  token: "gU6L16sonyE8TDZvD0mvI0WES"
+
+
+db:
+  host: "iltdb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"
